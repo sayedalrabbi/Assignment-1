@@ -54,3 +54,72 @@ nav li {
     border: none;
     border-radius: 10px;
 }
+.section-title{
+    font-size:40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.section-description{
+    font-size: 20px;
+    font-weight: 500;
+    color: #0e0e0e80;
+}
+main{
+    max-width: 1800px;
+    margin: 150px auto;
+}
+.benifit-container{
+    display: flex;
+    gap: 24px;   
+}
+.benifit-title{
+    color: #0e0e0eba;
+}
+.benifit-description{
+    color: #0e0e0e92;
+}
+.benifit{
+    padding: 32px;
+}
+.benifit-1{
+    background-color: #548ff550;
+    border: none;
+    border-radius: 20px;
+}
+.benifit-2{
+    background-color: #C6E4D6;
+    border: none;
+    border-radius: 20px;
+}
+.benifit-3{
+    background-color: #F7EBCF;
+    border: none;
+    border-radius: 20px;
+}
+.btn-1{
+    background-color: #5490F5;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 10px
+}
+.btn-2{
+    background-color: #09A15C;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 10px
+}
+.btn-3{
+    background-color: #FFC239;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 10px  
+}
