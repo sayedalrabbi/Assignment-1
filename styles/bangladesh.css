@@ -156,6 +156,9 @@ main{
     margin-bottom: 0px;
     color: #0e0e0eca;
 }
+.satelite-dt{
+    color: #0e0e0e9c;
+}
 .satelite-description{
     font-weight: 500;
     font-size: 16px;
