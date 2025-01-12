@@ -171,3 +171,35 @@ main{
 .satelite-content-1{
     padding: 0px 200px 0px 0px;
 }
+.donate-title{
+    font-size: 50px;
+    font-weight:bold;
+    color: #0E0E0E;
+    margin-top: 80px;
+}
+.donate-description{
+    font-size: 16px;
+    color: #0e0e0ea3;
+}
+.Donate{
+    text-align: center;
+}
+.donate-btn{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 35px 40px;
+    padding: 50px;
+    border: 0px;
+    border-radius: 25px;
+}
+.donate-btn-1{
+    background-color: #C6E4D6;
+}
+.donate-btn-2{
+    font-size: 20px;
+    font-weight: 600px;
+    margin: 20px 100px;
+    padding: 30px 650px;
+    border: 0px;
+    color: #0e0e0e49;
+}
