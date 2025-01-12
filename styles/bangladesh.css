@@ -66,7 +66,10 @@ nav li {
 }
 main{
     max-width: 1800px;
-    margin: 150px auto;
+    margin: 100px auto;
+}
+.vision{
+    margin-bottom: 80px;
 }
 .benifit-container{
     display: flex;
@@ -122,4 +125,46 @@ main{
     padding: 20px 40px;
     border: none;
     border-radius: 10px  
+}
+.news-title{
+    font-size:40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.news-description{
+    color: #0e0e0e92;
+    margin-bottom: 32px;
+}
+.satelite{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    border-radius: 24px;
+    background-color: #F1F1F3;
+    padding: 48px;
+    margin-bottom: 20px;
+}
+.satelite-img{
+    border-radius: 24px;
+    width: 408px;
+    height: 306px;
+}
+.satelite-title{
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: #0e0e0eca;
+}
+.satelite-description{
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 50px;
+    color: #0e0e0e9c;
+}
+.satelite-content{
+    padding: 0px 200px 0px 0px;
+}
+.satelite-content-1{
+    padding: 0px 200px 0px 0px;
 }
